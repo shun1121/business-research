@@ -36,18 +36,26 @@ css: unocss
 # 目次
 
 - ティムさんと一番最初のウェブサイト
+- IT業界とWeb業界の違い
+- Web業界のサービスの種類（8つ）
+- Web業界のビジネスモデル
+- Web業界の主な仕事内容
+- Web業界の職種
+- Web業界の平均年収
+- Web業界の魅力、大変なところ
+- Web業界の今後
 
 ---
 
 <div class="flex ml-8 mt-8">
-<div>
-<img src="/first-website.png" class="w-full object-contain mb-5" />
-<p>http://info.cern.ch/hypertext/WWW/TheProject.html</p>
-</div>
-<div class="ml-10">
-<img src="/tim.png" class="w-full object-contain mb-5" />
-<p>ティム・バーナーズ＝リー</p>
-</div>
+  <div>
+    <img src="/first-website.png" class="w-full object-contain mb-5" />
+    <p>http://info.cern.ch/hypertext/WWW/TheProject.html</p>
+  </div>
+  <div class="ml-10">
+    <img src="/tim.png" class="w-full object-contain mb-5" />
+    <p>ティム・バーナーズ＝リー</p>
+  </div>
 </div>
 
 ---
@@ -60,29 +68,19 @@ css: unocss
   }
 </style>
 
-<!-- IT業界とは、<br>
-<div class="text-5 font-bold mb-3">
-  「通信・インフラ」
-  「ハードウェア」
-  「Web」
-  「ソフトウェア」
-  「情報処理サービス」
-</div>
-業界の総称。 -->
 IT業界とは「システムを提供する会社」の総称。
 <br>
 <br>
 例）パソコン、プロジェクター、業務系アプリ、洗濯機の組み込みソフト、ソーシャルメデイア...
 <br>
 <br>
-<!-- Web業界とは、IT業界の中でも「インターネットを介して世の中が便利になるサービスを提供し、対価を得るビジネス」を行っている業界。 -->
 
 Web業界とは、IT業界の中でも
 <div class="text-5 font-bold mb-1">
   「インターネットを介して世の中が便利になるサービス(Webサービス)を提供し、対価を得るビジネス」
 </div>
 を行っている業界。<br><br>
-Web業界が一般的になったのは、1990年代後半に起きたIT革命以降。20代半ば
+Web業界が一般的になったのは、1990年代後半に起きたIT革命以降。30歳くらい。
 
 <p class="pt-3">Webサービスとは？</p>
 <p class="">どんなビジネスモデル？</p>
@@ -100,17 +98,12 @@ h1 {
 }
 </style>
 
-<!--
-Here is another comment.
--->
-
 ---
 
 # Web業界のサービスの種類（8つ）
 <style>
   .slidev-layout li {
     font-size: 24px;
-    /* font-weight: bold; */
     line-height: 1.6rem;
   }
 </style>
@@ -164,7 +157,6 @@ C = Customer
   p {
     opacity: initial;
     margin-left: 20px;
-    /* margin-top: 50px; */
   }
   h3 {
     margin-top: 40px;
@@ -252,12 +244,35 @@ C = Customer
 
 ---
 
+# Web業界の魅力、大変なところ
+<style>
+  .slidev-layout h1 + p {
+    opacity: initial;
+    margin-bottom: 30px;
+  }
+</style>
+
+（デザイナー、エンジニア）
+- 手に職が得られる
+- 副業に関して寛容な会社が多い
+- フリーランスとしても働きやすい
+- 働き方の自由度が高い
+- 服装、髪型の自由
+
+<ul class="mt-5">
+  <li>技術のキャッチアップ</li>
+  <li>下請けの案件でのコミュニケーション</li>
+  <li>下流工程だとスケジュール短縮などのシワ寄せ</li>
+</ul>
+
+---
+
 # Web業界の今後
 
 <style>
   .slidev-layout h1 + p {
     opacity: initial;
-    /* margin-top: 10px; */
+    margin-bottom: 0px;
   }
 </style>
 
@@ -290,8 +305,8 @@ https://www.internetacademy.jp/special/history.html<br>
 https://www.youtube.com/watch?v=j8ZmpvqRAsI<br>
 https://career.levtech.jp/guide/knowhow/article/436/<br>
 https://www.meti.go.jp/statistics/tyo/tokusabido/result/result_1.html<br>
-https://mushmemo.com/webdesign_features/#Web-7
+https://mushmemo.com/webdesign_features/#Web-7<br>
+https://www.internetacademy.jp/special/history.html
 
 
 
----
